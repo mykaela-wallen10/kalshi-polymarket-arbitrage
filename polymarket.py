@@ -12,4 +12,4 @@ def get_polymarket_book(condition_id="0x123456789"):
         print(f"Polymarket API error: {e}")
     return {}
 
-#clob API
+#clob API real world

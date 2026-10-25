@@ -13,4 +13,4 @@ def get_kalshi_book(ticker="KXPRESIDENT2024"):
         print(f"Kalshi API error: {e}")
     return {}
 
-#REST API 
+#REST API real world 
